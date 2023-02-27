@@ -1,0 +1,21 @@
+Go to website https://cs50.harvard.edu/python/2022/psets/0/faces/
+
+or read the assignment here 
+
+
+
+In a file called `faces.py`, implement a program in Python that prompts the user for input and then outputs that same input with any `:)` converted to 🙂 and any `:(` converted to 🙁. All other text should be returned unchanged.
+
+Test Cases:
+
+- Run your program with `python faces.py`. Type `Hello :)` and press Enter. Your program should output:
+
+    `Hello 🙂`
+    
+- Run your program with `python faces.py`. Type `Goodbye :(` and press Enter. Your program should output:
+    
+    `Goodbye 🙁`
+    
+- Run your program with `python faces.py`. Type `Hello :) Goodbye :(` and press Enter. Your program should output
+    
+    `Hello 🙂 Goodbye 🙁`
